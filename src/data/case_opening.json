@@ -63,52 +63,52 @@
       "icon": "🌾",
       "color": "from-[#38bdf8] to-[#0369a1]",
       "background": "linear-gradient(135deg, #04121d 0%, #0f2d45 100%)",
-      "image": "/images/farm_chest.png",
+      "image": "/images/farmchest.png",
       "items": [
         {
-          "name": "Rusty Pitchfork",
+          "name": "DIRT",
           "rarity": "Common",
           "chance": 60,
           "value": 10,
           "icon": "🔱",
           "color": "#a1a1aa",
-          "image": "https://picsum.photos/seed/rust_fork/150/150"
+          "image": "/images/dirt.png"
         },
         {
-          "name": "Oversized Pumpkin",
+          "name": "Tractor",
           "rarity": "Rare",
           "chance": 25,
           "value": 45,
           "icon": "🎃",
           "color": "#3b82f6",
-          "image": "https://picsum.photos/seed/gargantuan_pumpkin/150/150"
+          "image": "/images/tractor.png"
         },
         {
-          "name": "Tractor Keys",
+          "name": "Ances Red",
           "rarity": "Epic",
           "chance": 10,
           "value": 180,
           "icon": "🔑",
           "color": "#a855f7",
-          "image": "https://picsum.photos/seed/tractor_key/150/150"
+          "image": "/images/ances.png"
         },
         {
-          "name": "Golden Harvest Apple",
+          "name": "Magplant 5000",
           "rarity": "Legendary",
           "chance": 4,
           "value": 650,
           "icon": "🍎",
           "color": "#eab308",
-          "image": "https://picsum.photos/seed/gold_apple/150/150"
+          "image": "/images/magplant.png"
         },
         {
-          "name": "Abundance Demeter Scythe",
+          "name": "Legendary Rayman",
           "rarity": "Mythic",
           "chance": 1,
           "value": 3200,
           "icon": "⚔️",
           "color": "#ef4444",
-          "image": "/images/prize_farm.png"
+          "image": "/images/lray2.png"
         }
       ]
     },

@@ -66,13 +66,13 @@
       "image": "/images/farmchest.png",
       "items": [
         {
-          "name": "DIRT",
+          "name": "Chand",
           "rarity": "Common",
           "chance": 60,
           "value": 10,
           "icon": "🔱",
           "color": "#a1a1aa",
-          "image": "/images/dirt.png"
+          "image": "/images/ch.png"
         },
         {
           "name": "Tractor",
@@ -113,170 +113,170 @@
       ]
     },
     {
-      "id": "weapon",
-      "name": "Weapon Chest",
+      "id": "new",
+      "name": "Newbie Chest",
       "price": 120,
       "icon": "⚔️",
       "color": "from-sky-400 to-indigo-600",
       "background": "linear-gradient(135deg, #081123 0%, #0d2346 100%)",
-      "image": "/images/weapon_chest.png",
+      "image": "/images/budhachest.png",
       "items": [
         {
-          "name": "Iron Dagger",
-          "rarity": "Common",
-          "chance": 60,
-          "value": 15,
-          "icon": "🗡️",
-          "color": "#a1a1aa",
-          "image": "https://picsum.photos/seed/iron_blade/150/150"
-        },
-        {
-          "name": "Carbon Steel Katana",
+          "name": "Gaia",
           "rarity": "Rare",
           "chance": 25,
-          "value": 70,
-          "icon": "⚔️",
+          "value": 45,
+          "icon": "🔱",
+          "color": "#a1a1aa",
+          "image": "/images/gaia.png"
+        },
+        {
+          "name": "UT",
+          "rarity": "Rare",
+          "chance": 25,
+          "value": 45,
+          "icon": "🎃",
           "color": "#3b82f6",
-          "image": "https://picsum.photos/seed/steel_katana/150/150"
+          "image": "/images/ut.png"
         },
         {
-          "name": "Cyber Laser Carbine",
-          "rarity": "Epic",
-          "chance": 10,
-          "value": 280,
-          "icon": "🔫",
+          "name": "COTD",
+          "rarity": "Rare",
+          "chance": 25,
+          "value": 45,
+          "icon": "🔑",
           "color": "#a855f7",
-          "image": "https://picsum.photos/seed/laser_carb/150/150"
+          "image": "/images/cotd.png"
         },
         {
-          "name": "Plasma Radiant Sword",
-          "rarity": "Legendary",
-          "chance": 4,
-          "value": 950,
-          "icon": "⚡",
+          "name": "Cashback Kupon 10x",
+          "rarity": "Rare",
+          "chance": 25,
+          "value": 45,
+          "icon": "🍎",
           "color": "#eab308",
-          "image": "https://picsum.photos/seed/plasma_sword/150/150"
+          "image": "/images/cash.png"
         },
         {
-          "name": "Asgardian Thunder Hammer",
-          "rarity": "Mythic",
-          "chance": 1,
-          "value": 4800,
-          "icon": "🔨",
+          "name": "Hot Chocolate 3x",
+          "rarity": "Rare",
+          "chance": 25,
+          "value": 45,
+          "icon": "⚔️",
           "color": "#ef4444",
-          "image": "/images/prize_weapon.png"
+          "image": "/images/hotc.png"
         }
       ]
     },
     {
-      "id": "magic",
-      "name": "Magic Chest",
+      "id": "lock",
+      "name": "Locked Chest",
       "price": 150,
       "icon": "🔮",
       "color": "from-cyan-400 to-blue-600",
       "background": "linear-gradient(135deg, #06111f 0%, #0b223d 100%)",
-      "image": "/images/magic_chest.png",
+      "image": "/images/chestbgl.png",
       "items": [
         {
-          "name": "Initiate Crystal Wand",
+          "name": "World Lock",
           "rarity": "Common",
           "chance": 60,
           "value": 20,
           "icon": "🪄",
           "color": "#a1a1aa",
-          "image": "https://picsum.photos/seed/crystal_wand/150/150"
+          "image": "/images/wl.png"
         },
         {
-          "name": "Luminous Mana Elixir",
+          "name": "Diamond Lock",
           "rarity": "Rare",
           "chance": 25,
           "value": 90,
           "icon": "🧪",
           "color": "#3b82f6",
-          "image": "https://picsum.photos/seed/mana_pot/150/150"
+          "image": "/images/dl.png"
         },
         {
-          "name": "Grimoire of Fireball",
+          "name": "Emerald Lock",
           "rarity": "Epic",
           "chance": 10,
           "value": 350,
           "icon": "📖",
           "color": "#a855f7",
-          "image": "https://picsum.photos/seed/grimoire_fire/150/150"
+          "image": "/images/emer1.png"
         },
         {
-          "name": "Robe of Archmage",
+          "name": "Blue Gem Lock",
           "rarity": "Legendary",
           "chance": 4,
           "value": 1100,
           "icon": "🥋",
           "color": "#eab308",
-          "image": "https://picsum.photos/seed/mage_robe/150/150"
+          "image": "/images/bgl1.png"
         },
         {
-          "name": "Sorcerer Supreme Staff",
+          "name": "Royal Lock",
           "rarity": "Mythic",
           "chance": 1,
           "value": 5500,
           "icon": "🔮",
           "color": "#ef4444",
-          "image": "/images/prize_magic.png"
+          "image": "/images/royal1.png"
         }
       ]
     },
     {
-      "id": "animal",
-      "name": "Animal Chest",
+      "id": "citem",
+      "name": "Citem Chest",
       "price": 60,
       "icon": "🦊",
       "color": "from-blue-400 to-sky-700",
       "background": "linear-gradient(135deg, #051421 0%, #0b243b 100%)",
-      "image": "/images/animal_chest.png",
+      "image": "/images/citemchest.png",
       "items": [
         {
-          "name": "Farmyard Chick Egg",
-          "rarity": "Common",
+          "name": "Starts",
+          "rarity": "Rare",
           "chance": 60,
           "value": 8,
           "icon": "🥚",
           "color": "#a1a1aa",
-          "image": "https://picsum.photos/seed/chick_egg/150/150"
+          "image": "/images/stars.png"
         },
         {
-          "name": "Fierce Timber Wolf Pup",
+          "name": "Stars",
           "rarity": "Rare",
           "chance": 25,
           "value": 35,
           "icon": "🐺",
           "color": "#3b82f6",
-          "image": "https://picsum.photos/seed/wolf_pup/150/150"
+          "image": "/images/stars.png"
         },
         {
-          "name": "Crystalline Night Owl",
-          "rarity": "Epic",
+          "name": "Stars",
+          "rarity": "Rare",
           "chance": 10,
           "value": 140,
           "icon": "🦉",
           "color": "#a855f7",
-          "image": "https://picsum.photos/seed/night_owl/150/150"
+          "image": "/images/stars.png"
         },
         {
-          "name": "Golden Griffin Mount",
-          "rarity": "Legendary",
+          "name": "Tricky",
+          "rarity": "Rare",
           "chance": 4,
           "value": 520,
           "icon": "🦁",
           "color": "#eab308",
-          "image": "https://picsum.photos/seed/griffin_mount/150/150"
+          "image": "/images/tricky2.png"
         },
         {
-          "name": "Eternity Phoenix Soul",
-          "rarity": "Mythic",
+          "name": "Kaido",
+          "rarity": "Rare",
           "chance": 1,
           "value": 2800,
           "icon": "🦅",
           "color": "#ef4444",
-          "image": "/images/prize_animal.png"
+          "image": "/images/kaidohd.png"
         }
       ]
     },
